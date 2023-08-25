@@ -714,7 +714,7 @@ a.text-dark:focus,a.text-dark:hover {
 }
 
 .pt-8,.py-8 {
-    padding-top: 5rem!important
+    padding-top: 3rem!important
 }
 
 .pe-8,.px-8 {
@@ -726,7 +726,7 @@ a.text-dark:focus,a.text-dark:hover {
 }
 
 .ps-8,.px-8 {
-    padding-left: 3rem!important
+    padding-left: 5rem!important
 }
 
 .p-9 {
